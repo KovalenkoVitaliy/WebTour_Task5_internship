@@ -1,0 +1,20 @@
+[
+    {
+        "actionName": "vuser_init",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: Webtours",
+                "infFile": "t1.inf",
+                "time": 1616007498318
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t2.inf",
+                "time": 1616007498585
+            }
+        ],
+        "transactions": []
+    }
+]

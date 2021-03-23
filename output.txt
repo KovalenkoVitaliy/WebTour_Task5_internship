@@ -1,0 +1,17 @@
+Action.c(76): Departure City: Los Angeles
+Action.c(77): Seating Preference: None
+Action.c(78): Type of Seat: Coach
+Action.c(79): 
+Action.c(103): Step of cycle is: 0
+Action.c(104): Result of operation  is: 1
+Action.c(107): Full cost on this step is: 390;401;04/25/2020
+Action.c(103): Step of cycle is: 1
+Action.c(104): Result of operation  is: 1
+Action.c(107): Full cost on this step is: 391;357;04/25/2020
+Action.c(103): Step of cycle is: 2
+Action.c(104): Result of operation  is: 1
+Action.c(107): Full cost on this step is: 392;379;04/25/2020
+Action.c(103): Step of cycle is: 3
+Action.c(104): Result of operation  is: 0
+Action.c(107): Full cost on this step is: 393;328;04/25/2020
+Vuser Terminated.
